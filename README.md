@@ -9,9 +9,15 @@
 <h3 align="left">Habilidades:</h3>
 
 - Desenvolvedor Full stack
+Linguagens:
+  - TypeScript
+  - Node.js
+  - JavaScript
+  -- **Python:** em processo de aprendizagem.
+  
   - **Back-end:** desenvolvi API's utilizando padrões rest com express, realizando consultas tanto com Sql, utilizando sequelize e MongoDB, através do Mongoose. Nos projetos foram utilizados Arquitetura MSC para organização de responsabilidades, TypeScript para garantir qual tipo de informação estamos trabalhando, além de POO, com SOLID a fim de fazer funções mais concisas, com responsabilidades únicas e seguras. Para garantir uma aplicação segura as ferramentas Mocha, Chai e Sinon apareceram para os testes de integração e TDD.   
   - **Front-end:** desenvolvi sites funcionais, utilizando React, ciclo de vida de componentes, gerenciamento de estado com Redux, Context API e React Hooks. Nos projetos escolhemos RTL (React Testing Library) para testar e garantir segurança no funcionamento, consulta e entrega de dados em uma api. Axios também foi aplicado em projetos para integração do back com o front-end, nas aplicações de API's locais.
-  - **Python:** em processo de aprendizagem.
+  
   
 ### O que mais me move na programação?
   - Evoluir, aprender
